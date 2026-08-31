@@ -101,6 +101,7 @@ I specialize in building responsive, database-driven web applications using **La
     <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
   </p>
 
 </details>
@@ -128,6 +129,9 @@ I specialize in building responsive, database-driven web applications using **La
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br><b>MySQL</b>
 </td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60"/><br><b>Visual Studio</b>
+</td>
 </tr>
 
 <tr>
@@ -145,6 +149,9 @@ I specialize in building responsive, database-driven web applications using **La
 </td>
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/><br><b>VS Code</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br><b>Git</b>
 </td>
 </tr>
 
@@ -180,7 +187,7 @@ I specialize in building responsive, database-driven web applications using **La
 <br/><br/>
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Tools" />
 
 </div>
 
