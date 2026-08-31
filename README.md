@@ -189,9 +189,9 @@ I specialize in building responsive, database-driven web applications using **La
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dulasi-19&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Dulasi-19's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dulasi-19&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Dulasi-19's GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulasi-19&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dulasi-19&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulasi-19&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
